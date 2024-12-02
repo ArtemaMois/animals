@@ -1,0 +1,90 @@
+
+
+.nav {
+    margin-top: 65px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 130px;
+}
+.nav__logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 235px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav__logo img {
+}
+.nav__list {
+    display: flex;
+    gap: 80px;
+    color: #C3B9B5;
+    margin-right: 333px;
+    text-transform: uppercase;
+}
+.nav__item {
+}
+.nav__item-link {
+    font-family: 'Futura New', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #C3B9B5;
+    transition: all .3s;
+}
+
+.nav__item-link:hover{
+    color: #FFC59E;
+    cursor: pointer;
+}
+.nav__location {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFC59E;
+}
+.nav__location-city {
+    font-family:'Futura New', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.header {
+    padding-left: 110px;
+    display: flex;
+}
+
+.slider__pagination {
+    font-family: 'Futura New';
+    font-weight: 700;
+    font-size: 20px;
+    color: #C3B9B5;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    
+}
+.header__slider {
+}
+.slider {
+}
+.slider__line {
+}
+.slider__item {
+}
+.item__background {
+}
+.item__title {
+}
+.item {
+}
+.header__button {
+}
+.header__society {
+}
+.society {
+}
+.header__phone-number {
+}
